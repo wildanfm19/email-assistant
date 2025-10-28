@@ -4,5 +4,5 @@ spring:
 
 gemini:
   api:
-    url: ${GEMINI.URL}
-    key: ${GEMINI.KEY}
+    url: ${GEMINI_URL}
+    key: ${GEMINI_KEY}
